@@ -19,7 +19,7 @@ This repository features two jupyter notebooks:
 
 <br/>
 <p align="center">
-⚠️ We inform you that the training process of our system remains relatively slow. <br/>We provide a proof of concept that can be further optimized. ⚠️
+⚠️ The training process of our system remains relatively slow. <br/>This is a proof of concept that can be further optimized. ⚠️
 </p>
 
 ## Citation
