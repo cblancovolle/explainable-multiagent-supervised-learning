@@ -25,10 +25,12 @@ This repository features two jupyter notebooks:
 ## Citation
 
 ```bibtex
-@inproceedings{2024explainablemas,
-  title={Explainability and Interpretability of an Ensemble Multi-Agent System for Supervised Learning},
-  author={},
-  booktitle={},
-  year={2024}
+@inproceedings{blanco2024explainability,
+  title={Explainability and Interpretability of an Ensemble Multi-agent System for Supervised Learning},
+  author={Blanco-Volle, Cl{\'e}ment and Verstaevel, Nicolas and Combettes, St{\'e}phanie and Gleizes, Marie-Pierre and Povlovitsch Seixas, Michel},
+  booktitle={International Conference on Principles and Practice of Multi-Agent Systems},
+  pages={335--350},
+  year={2024},
+  organization={Springer}
 }
 ```
